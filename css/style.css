@@ -1523,3 +1523,7 @@ canvas {
   }
 }
 /* FOOTER END */
+
+body > section.hero-main > div > video {
+  border-radius: 15px;
+}
